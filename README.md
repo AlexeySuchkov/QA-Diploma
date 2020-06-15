@@ -29,7 +29,7 @@
 1. Закрыть все окна терминала
    
 #### Для работы с Postgres
-1. Запуск Postgres, Node.js
+1. Запуск Postgres
     ```
     docker-compose -f docker-compose-pgsql.yml up -d
     ```
