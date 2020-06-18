@@ -4,7 +4,7 @@
 #### Для работы с MySQL
 1. Запуск контейнера MySQL:
     ```
-    docker-compose -f docker-compose-msql.yml up -d
+    docker-compose -f docker-compose-mysql.yml up -d
     ```
 1. Запуск SUT:
     ```
@@ -49,6 +49,6 @@
      ```
 1. Остановить контейнеры
     ```
-    docker-compose -f docker-compose-psql.yml down
+    docker-compose -f docker-compose-pgsql.yml down
     ```
 1. Закрыть все окна терминала
