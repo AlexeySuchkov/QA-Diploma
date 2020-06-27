@@ -9,7 +9,7 @@
 
 * ### [Отчет по тестированию](https://github.com/AlexeySuchkov/QA-Diploma/blob/master/Report.md)
 
-* ### [Отчётные документы по автоматизации](https://github.com/AlexeySuchkov/QA-Diploma/blob/master/Summary.md)
+* ### [Отчёт по автоматизации](https://github.com/AlexeySuchkov/QA-Diploma/blob/master/Summary.md)
 
 
 ## Запуск программы и тестов
