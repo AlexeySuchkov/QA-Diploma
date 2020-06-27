@@ -1,3 +1,17 @@
+# Дипломный проект по профессии «Тестировщик»
+
+##### Дипломный проект по автоматизации тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка.
+
+## Документация:
+* ### [План автоматизации](https://github.com/AlexeySuchkov/QA-Plan/blob/master/Plan.md)
+
+* ### [Список багов, заведенных в issues](https://github.com/AlexeySuchkov/QA-Diploma/issues) 
+
+* ### [Отчет по тестированию](https://github.com/AlexeySuchkov/QA-Diploma/blob/master/Report.md)
+
+* ### [Отчётные документы по автоматизации](https://github.com/AlexeySuchkov/QA-Diploma/blob/master/Summary.md)
+
+
 ## Запуск программы и тестов
 
 
