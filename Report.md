@@ -28,7 +28,7 @@
 * Успешных: 18 (56%)
 * Неуспешных: 14 (44%)
 
-![](docs/Allure Report.png)
+![](docs/AllureReport.png)
 
 
 ### Общие рекомендации
